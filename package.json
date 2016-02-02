@@ -1,0 +1,26 @@
+{
+  "name": "jade-smart-watch",
+  "version": "0.0.1",
+  "description": "This is jade watch plugin , he watch what jage file changed and then hi find jade dependens and compele in html files. ",
+  "main": "imdex.js",
+  "scripts": {
+    "test": "jade-smart-watch-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drugak/jade-smart-watch.git"
+  },
+  "keywords": [
+    "jade",
+    "watch",
+    "jade-watch",
+    "single",
+    "jade-import"
+  ],
+  "author": "Vitaliy Drugak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drugak/jade-smart-watch/issues"
+  },
+  "homepage": "https://github.com/Drugak/jade-smart-watch#readme"
+}
